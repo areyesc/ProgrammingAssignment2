@@ -21,7 +21,6 @@
        ,setInverse = setInverse
        ,getInverse = getInverse)
   
-  
 }
 
 
